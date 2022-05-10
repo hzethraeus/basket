@@ -1,0 +1,8 @@
+.mainHeader{
+    border-bottom: 1px solid #eaeaea;
+    padding: 20px;
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
